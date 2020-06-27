@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282458464808",
+    "firebase_url": "https://hungrezy-c50f4.firebaseio.com",
+    "project_id": "hungrezy-c50f4",
+    "storage_bucket": "hungrezy-c50f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282458464808:android:1e25158138ef7e9c",
+        "android_client_info": {
+          "package_name": "com.example.hungrezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282458464808-56oj0obiemhdv9cgf272sf0okig24fif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungrezy",
+            "certificate_hash": "c37d183acb1506a8e5d54e6bc7e362ef4be26211"
+          }
+        },
+        {
+          "client_id": "282458464808-bul5mv8o0v3a2as8c0kfgt7a6206lb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIko0ea_VGz50ukFt0Go3m7IjxIlQbBuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282458464808-bul5mv8o0v3a2as8c0kfgt7a6206lb8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
